@@ -1,2 +1,2 @@
-# cs2stock-viewer
-一个用 Nuxt3 构建的 CS2/CSGO Steam 库存查看器，支持分类、磨损识别、中文界面。
+# CS2 Steam 仓库查看器
+一个用 Nuxt3 开发的网页应用，用于查看 Steam 账户的 CS:GO/CS2 库存，支持物品分类、中文磨损等级、职业选手标识等功能。
