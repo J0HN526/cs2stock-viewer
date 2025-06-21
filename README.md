@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
@@ -73,3 +74,7 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+=======
+# CS2 Steam 仓库查看器
+一个用 Nuxt3 开发的网页应用，用于查看 Steam 账户的 CS:GO/CS2 库存，支持物品分类、中文磨损等级、职业选手标识等功能。
+>>>>>>> 1ba28901f94257e41045b18d58775a1b3bc4259c
